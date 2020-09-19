@@ -1,0 +1,32 @@
+body{
+    background-color: yellow;
+}
+
+#title{
+    text-align: center;
+    color: black;
+    background: aqua;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+#container{
+    color: black;
+    text-decoration: none!important;
+    border-radius: 15px!important;
+    background-color: lemonchiffon;
+    overflow: scroll;
+    font-size: 20px;
+    height: 400px;
+    width: 300px;
+    margin-left: 400px;
+    line-height: 30px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+    
+    
+}
